@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241387571198",
+    "project_id": "sunscript-f5340",
+    "storage_bucket": "sunscript-f5340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241387571198:android:0adf6af5dd18fa6bc8e2af",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241387571198-oou8mgmfikjiik0531ge4bejcrljg78u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WFagdqsuVeA2nlhKNVzBz-phJJzQawE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241387571198-oou8mgmfikjiik0531ge4bejcrljg78u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
