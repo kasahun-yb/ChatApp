@@ -34,3 +34,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your/repository.git
+   2. **open directory :**
+
+   ```bash
+   cd Directory name
